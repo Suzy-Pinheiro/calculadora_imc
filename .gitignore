@@ -1,0 +1,50 @@
+## Build results
+bin/
+obj/
+
+## Visual Studio files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Rider / JetBrains
+.idea/
+*.sln.iml
+
+## VS Code
+.vscode/
+
+## Logs
+*.log
+
+## Arquivos de sistema
+Thumbs.db
+.DS_Store
+
+## Pacotes NuGet
+*.nupkg
+# Se quiser ignorar cache local (opcional)
+# packages/
+
+## Arquivos gerados pelo .NET
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## Publish
+publish/
+out/
+
+## Cobertura de testes
+coverage/
+*.coverage
+*.coveragexml
+
+## Segredos / configs locais
+appsettings.Development.json
+secrets.json
+
+## Docker (se usar)
+docker-compose.override.yml
