@@ -1,0 +1,14 @@
+C:\Users\suzy.pinheiro\Documents\Plano de Carreira\C# .NET\Projeto IMC\bin\Debug\net10.0\Projeto IMC.exe
+C:\Users\suzy.pinheiro\Documents\Plano de Carreira\C# .NET\Projeto IMC\bin\Debug\net10.0\Projeto IMC.deps.json
+C:\Users\suzy.pinheiro\Documents\Plano de Carreira\C# .NET\Projeto IMC\bin\Debug\net10.0\Projeto IMC.runtimeconfig.json
+C:\Users\suzy.pinheiro\Documents\Plano de Carreira\C# .NET\Projeto IMC\bin\Debug\net10.0\Projeto IMC.dll
+C:\Users\suzy.pinheiro\Documents\Plano de Carreira\C# .NET\Projeto IMC\bin\Debug\net10.0\Projeto IMC.pdb
+C:\Users\suzy.pinheiro\Documents\Plano de Carreira\C# .NET\Projeto IMC\obj\Debug\net10.0\Projeto IMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suzy.pinheiro\Documents\Plano de Carreira\C# .NET\Projeto IMC\obj\Debug\net10.0\Projeto IMC.AssemblyInfoInputs.cache
+C:\Users\suzy.pinheiro\Documents\Plano de Carreira\C# .NET\Projeto IMC\obj\Debug\net10.0\Projeto IMC.AssemblyInfo.cs
+C:\Users\suzy.pinheiro\Documents\Plano de Carreira\C# .NET\Projeto IMC\obj\Debug\net10.0\Projeto IMC.csproj.CoreCompileInputs.cache
+C:\Users\suzy.pinheiro\Documents\Plano de Carreira\C# .NET\Projeto IMC\obj\Debug\net10.0\Projeto IMC.dll
+C:\Users\suzy.pinheiro\Documents\Plano de Carreira\C# .NET\Projeto IMC\obj\Debug\net10.0\refint\Projeto IMC.dll
+C:\Users\suzy.pinheiro\Documents\Plano de Carreira\C# .NET\Projeto IMC\obj\Debug\net10.0\Projeto IMC.pdb
+C:\Users\suzy.pinheiro\Documents\Plano de Carreira\C# .NET\Projeto IMC\obj\Debug\net10.0\Projeto IMC.genruntimeconfig.cache
+C:\Users\suzy.pinheiro\Documents\Plano de Carreira\C# .NET\Projeto IMC\obj\Debug\net10.0\ref\Projeto IMC.dll
